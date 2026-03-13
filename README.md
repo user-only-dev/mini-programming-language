@@ -1,2 +1,2 @@
-# Ng-n-ng-l-p-tr-nh-nh-
-Tạo cho vui, chưa có trình chạy 
+# mini language
+## Tạo cho vui, không có trình chạy
