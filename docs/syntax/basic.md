@@ -11,7 +11,7 @@ true → boolean<br>
 false → boolean<br>
 print to screen:`print(something)`<br>
 assign variables: `variable = value`<br>
-operator: `+ - * ** % /`
+operator: `+ - * ** % /`<br>
 comparison operators: `== > < >= <= !=`<br>
 assignment operator: `+= -= *= **= /=`<br>
 input: `input("things that appear before input")`<br>
