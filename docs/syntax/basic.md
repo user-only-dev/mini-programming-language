@@ -6,13 +6,13 @@ data types:<br>
 12.3 → float<br>
 "hello" → string<br>
 'hello' → string<br>
-"""hello""" '''hello''' → string multiple lines<br>
+"""hello""" & '''hello''' → string multiple lines<br>
 true → boolean<br>
 false → boolean<br>
 print to screen:`print(something)`<br>
 assign variables: `variable = value`<br>
 operator: `+ - * ** % /`
-comparison operators: `== >= <= !=`<br>
+comparison operators: `== > < >= <= !=`<br>
 assignment operator: `+= -= *= **= /=`<br>
 input: `input("things that appear before input")`<br>
 function:<br>
