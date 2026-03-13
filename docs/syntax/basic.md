@@ -21,6 +21,7 @@ function <>(parameters):
  The code is here.
  return <value>
 ```
+## indent like `python`
 call function: <br>
 `<name>(parameters)`<br>
 ### end
